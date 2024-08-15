@@ -1,0 +1,120 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.verdadyvidaradio"
+4    android:versionCode="3"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-68
+12-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-65
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-77
+13-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-74
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\juanj\.gradle\caches\transforms-3\840f024c7eef305f1442d02ae72426e5\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+14-->[com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\juanj\.gradle\caches\transforms-3\840f024c7eef305f1442d02ae72426e5\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:22-76
+15
+16    <application
+16-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:6:5-25:19
+17        android:name="com.verdadyvidaradio.MainApplication"
+17-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:7:7-38
+18        android:allowBackup="false"
+18-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:11:7-34
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.8.0] C:\Users\juanj\.gradle\caches\transforms-3\2e43b53f99307a3245fb14f70a6c1216\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:9:7-41
+21        android:label="@string/app_name"
+21-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:8:7-39
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:10:7-52
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:12:7-38
+24        <activity
+24-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:13:7-24:18
+25            android:name="com.verdadyvidaradio.MainActivity"
+25-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:14:9-37
+26            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+26-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:16:9-118
+27            android:exported="true"
+27-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:19:9-32
+28            android:label="@string/app_name"
+28-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:15:9-41
+29            android:launchMode="singleTask"
+29-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:17:9-40
+30            android:windowSoftInputMode="adjustResize" >
+30-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:18:9-51
+31            <intent-filter>
+31-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:20:9-23:25
+32                <action android:name="android.intent.action.MAIN" />
+32-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:21:13-65
+32-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:21:21-62
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:22:13-73
+34-->C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:22:23-70
+35            </intent-filter>
+36        </activity>
+37        <!-- The main service, handles playback, playlists and media buttons -->
+38        <service
+38-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-22:19
+39            android:name="com.doublesymmetry.trackplayer.service.MusicService"
+39-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-79
+40            android:enabled="true"
+40-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-35
+41            android:exported="false" >
+41-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+42            <intent-filter>
+42-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-21:29
+43                <action android:name="android.intent.action.MEDIA_BUTTON" />
+43-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:17-77
+43-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:25-74
+44            </intent-filter>
+45        </service> <!-- A receiver that will receive media buttons. Required on pre-lollipop devices -->
+46        <receiver
+46-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-31:20
+47            android:name="androidx.media.session.MediaButtonReceiver"
+47-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-70
+48            android:exported="true" >
+48-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
+49            <intent-filter>
+49-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-21:29
+50                <action android:name="android.intent.action.MEDIA_BUTTON" />
+50-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:17-77
+50-->[:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:25-74
+51            </intent-filter>
+52        </receiver>
+53
+54        <provider
+54-->[androidx.emoji2:emoji2:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\a491fe997c62915d8b5e27cb1c7ee888\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+55            android:name="androidx.startup.InitializationProvider"
+55-->[androidx.emoji2:emoji2:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\a491fe997c62915d8b5e27cb1c7ee888\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+56            android:authorities="com.verdadyvidaradio.androidx-startup"
+56-->[androidx.emoji2:emoji2:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\a491fe997c62915d8b5e27cb1c7ee888\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+57            android:exported="false" >
+57-->[androidx.emoji2:emoji2:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\a491fe997c62915d8b5e27cb1c7ee888\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+58            <meta-data
+58-->[androidx.emoji2:emoji2:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\a491fe997c62915d8b5e27cb1c7ee888\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+59                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+59-->[androidx.emoji2:emoji2:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\a491fe997c62915d8b5e27cb1c7ee888\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+60                android:value="androidx.startup" />
+60-->[androidx.emoji2:emoji2:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\a491fe997c62915d8b5e27cb1c7ee888\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+61            <meta-data
+61-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\juanj\.gradle\caches\transforms-3\b4f96b26a07681f60e49336d55d7ad7c\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+62                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+62-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\juanj\.gradle\caches\transforms-3\b4f96b26a07681f60e49336d55d7ad7c\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+63                android:value="androidx.startup" />
+63-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\juanj\.gradle\caches\transforms-3\b4f96b26a07681f60e49336d55d7ad7c\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+64        </provider>
+65    </application>
+66
+67</manifest>
