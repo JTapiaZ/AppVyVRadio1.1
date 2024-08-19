@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\juanj\\Downloads\\AppVyVRadio-master\\AppVyVRadio-master\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lt\\values-lt.xml",
+            "outputFile": "C:\\Users\\juanj\\Documents\\AppVyVRadio1.1\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lt\\values-lt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\juanj\\.gradle\\caches\\transforms-3\\53122dfddfd0b682fe74c9823d5d0125\\transformed\\appcompat-1.4.1\\res\\values-lt\\values-lt.xml",

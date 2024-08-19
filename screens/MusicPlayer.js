@@ -9,6 +9,8 @@ import {
   Image,
   FlatList,
   Animated,
+  Share,
+  Linking
 } from 'react-native';
 
 import TrackPlayer, {
@@ -131,6 +133,18 @@ const MusicPlayer = () => {
     );
   };
 
+  const shareDataPlayStore = async () => { 
+    try { 
+        await Share.share({ 
+            title: 'Verdad y Vida Radio APP',  
+            message: 'Descarga e instala la aplicación de Verdad y Vida Radio, https://play.google.com/store/apps/details?id=com.verdadyvidaradio&hl=es_CO', 
+            url: 'https://play.google.com/store/apps/details?id=com.verdadyvidaradio&hl=es_CO', 
+        }); 
+    } catch (error) { 
+        alert(error.message); 
+    } 
+}; 
+
   return (
     <SafeAreaView style={style.container}>
       {/* music player section */}
@@ -227,16 +241,16 @@ const MusicPlayer = () => {
       {/* bottom section */}
       <View style={style.bottomSection}>
         <View style={style.bottomIconContainer}>
-          <TouchableOpacity onPress={() => {}}>
-            <Ionicons name="heart-outline" size={30} color="#fff" />
+          <TouchableOpacity onPress={() => Linking.openURL('https://radioverdadyvida.com')}>
+            <Ionicons name="globe-outline" size={30} color="#fff" />
           </TouchableOpacity>
 
-          <TouchableOpacity onPress={() => {}}>
+          <TouchableOpacity onPress={shareDataPlayStore}>
             <Ionicons name="share-outline" size={30} color="#fff" />
           </TouchableOpacity>
 
-          <TouchableOpacity onPress={() => {}}>
-            <Ionicons name="ellipsis-horizontal" size={30} color="#fff" />
+          <TouchableOpacity onPress={() => Linking.openURL('fb://page/359807460699524')}>
+            <Ionicons name="logo-facebook" size={30} color="#fff" />
           </TouchableOpacity>
         </View>
       </View>

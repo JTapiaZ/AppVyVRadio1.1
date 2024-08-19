@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
-MERGED from [:react-native-community_slider] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-34:12
-MERGED from [:react-native-vector-icons] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-community_slider] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-vector-icons] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.69.4] C:\Users\juanj\.gradle\caches\transforms-3\f1af178cb92c2e225eb697934ce96fd8\transformed\jetified-react-native-0.69.4-release\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\59db212543bf6847d500bc32383c75b1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] C:\Users\juanj\.gradle\caches\transforms-3\3f83c266ccac6c7f2b518a076620525f\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
@@ -77,31 +77,31 @@ MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\juanj\.gradle\
 MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\juanj\.gradle\caches\transforms-3\4dc7ab9c43668a7a799bfd4806a70f82\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\juanj\.gradle\caches\transforms-3\edaeba3a6d53fb5ef2cc7754b7072678\transformed\jetified-timber-5.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\juanj\.gradle\caches\transforms-3\4c7513bc6dfa196d449632b3937dd8e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
 	package
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:2:3-33
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:2:3-33
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:1-26:12
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:6:5-25:19
-MERGED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-32:19
-MERGED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-32:19
+ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-32:19
+MERGED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:5-32:19
 MERGED from [com.facebook.react:react-native:0.69.4] C:\Users\juanj\.gradle\caches\transforms-3\f1af178cb92c2e225eb697934ce96fd8\transformed\jetified-react-native-0.69.4-release\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.react:react-native:0.69.4] C:\Users\juanj\.gradle\caches\transforms-3\f1af178cb92c2e225eb697934ce96fd8\transformed\jetified-react-native-0.69.4-release\AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\juanj\.gradle\caches\transforms-3\6dfe711f64abfd21f5fa47082cc6df01\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
@@ -121,51 +121,51 @@ MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\juanj\.gradle\caches\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] C:\Users\juanj\.gradle\caches\transforms-3\2e43b53f99307a3245fb14f70a6c1216\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:8:7-39
 	android:roundIcon
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:10:7-52
 	android:icon
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:9:7-41
 	android:allowBackup
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:7:7-38
 activity#com.verdadyvidaradio.MainActivity
-ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:13:7-24:18
+ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:13:7-24:18
 	android:label
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:15:9-41
 	android:launchMode
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:17:9-40
 	android:windowSoftInputMode
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:18:9-51
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:18:9-51
 	android:exported
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:19:9-32
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:19:9-32
 	android:configChanges
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:16:9-118
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:16:9-118
 	android:name
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:14:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:20:9-23:25
+ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:20:9-23:25
 action#android.intent.action.MAIN
-ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:21:13-65
+ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:21:13-65
 	android:name
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:21:21-62
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:21:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:22:13-73
+ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:22:13-73
 	android:name
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml:22:23-70
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml:22:23-70
 uses-sdk
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-MERGED from [:react-native-community_slider] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-community_slider] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-vector-icons] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-community_slider] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_slider] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\@react-native-community\slider\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.69.4] C:\Users\juanj\.gradle\caches\transforms-3\f1af178cb92c2e225eb697934ce96fd8\transformed\jetified-react-native-0.69.4-release\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.69.4] C:\Users\juanj\.gradle\caches\transforms-3\f1af178cb92c2e225eb697934ce96fd8\transformed\jetified-react-native-0.69.4-release\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\59db212543bf6847d500bc32383c75b1\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
@@ -306,44 +306,44 @@ MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\juanj\.gradle\caches\
 MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\juanj\.gradle\caches\transforms-3\edaeba3a6d53fb5ef2cc7754b7072678\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\juanj\.gradle\caches\transforms-3\4c7513bc6dfa196d449632b3937dd8e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\juanj\.gradle\caches\transforms-3\4c7513bc6dfa196d449632b3937dd8e3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-68
+ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-68
 	android:name
-		ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-65
+		ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-65
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-77
+ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-77
 	android:name
-		ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-74
+		ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-74
 service#com.doublesymmetry.trackplayer.service.MusicService
-ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-22:19
+ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-22:19
 	android:enabled
-		ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-35
+		ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-35
 	android:exported
-		ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+		ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
 	android:name
-		ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-79
+		ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-79
 intent-filter#action:name:android.intent.action.MEDIA_BUTTON
-ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-21:29
+ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-21:29
 action#android.intent.action.MEDIA_BUTTON
-ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:17-77
+ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:25-74
+		ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:25-74
 receiver#androidx.media.session.MediaButtonReceiver
-ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-31:20
+ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:9-31:20
 	android:exported
-		ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
+		ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
 	android:name
-		ADDED from [:react-native-track-player] C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-70
+		ADDED from [:react-native-track-player] C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-70
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\juanj\.gradle\caches\transforms-3\a491fe997c62915d8b5e27cb1c7ee888\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\juanj\.gradle\caches\transforms-3\b4f96b26a07681f60e49336d55d7ad7c\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20

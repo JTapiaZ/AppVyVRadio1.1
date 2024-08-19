@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\build\intermediates\default_proguard_files\global\proguard-android.txt-7.1.1
+# The proguard configuration file for the following section is C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\build\intermediates\default_proguard_files\global\proguard-android.txt-7.1.1
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -116,8 +116,8 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\build\intermediates\default_proguard_files\global\proguard-android.txt-7.1.1
-# The proguard configuration file for the following section is C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\proguard-rules.pro
+# End of content from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\build\intermediates\default_proguard_files\global\proguard-android.txt-7.1.1
+# The proguard configuration file for the following section is C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\proguard-rules.pro
 # Add project specific ProGuard rules here.
 # By default, the flags in this file are appended to flags specified
 # in /usr/local/Cellar/android-sdk/24.3.3/tools/proguard/proguard-android.txt
@@ -129,8 +129,8 @@
 
 # Add any project specific keep options here:
 
-# End of content from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\proguard-rules.pro
-# The proguard configuration file for the following section is C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\build\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# End of content from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\proguard-rules.pro
+# The proguard configuration file for the following section is C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\build\intermediates\aapt_proguard_file\release\aapt_rules.txt
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.media.session.MediaButtonReceiver { <init>(); }
 -keep class androidx.startup.InitializationProvider { <init>(); }
@@ -186,13 +186,13 @@
 -keep class com.google.android.exoplayer2.ui.TrackSelectionView { <init>(android.content.Context, android.util.AttributeSet); }
 
 
-# End of content from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\android\app\build\intermediates\aapt_proguard_file\release\aapt_rules.txt
-# The proguard configuration file for the following section is C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
+# End of content from C:\Users\juanj\Documents\AppVyVRadio1.1\android\app\build\intermediates\aapt_proguard_file\release\aapt_rules.txt
+# The proguard configuration file for the following section is C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
 
 # Ignore "not found" errors for libraries
 -dontwarn com.google.android.exoplayer2.**
 
-# End of content from C:\Users\juanj\Downloads\AppVyVRadio-master\AppVyVRadio-master\node_modules\react-native-track-player\android\build\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
+# End of content from C:\Users\juanj\Documents\AppVyVRadio1.1\node_modules\react-native-track-player\android\build\intermediates\consumer_proguard_dir\release\lib0\proguard.txt
 # The proguard configuration file for the following section is C:\Users\juanj\.gradle\caches\transforms-3\f1af178cb92c2e225eb697934ce96fd8\transformed\jetified-react-native-0.69.4-release\proguard.txt
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 #

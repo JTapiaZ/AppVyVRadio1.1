@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\juanj\\Downloads\\AppVyVRadio-master\\AppVyVRadio-master\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+            "outputFile": "C:\\Users\\juanj\\Documents\\AppVyVRadio1.1\\android\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
             "map": [
                 {
                     "source": "C:\\Users\\juanj\\.gradle\\caches\\transforms-3\\865e246b4a6130e0f8061b54c3dd8434\\transformed\\jetified-extension-mediasession-2.18.1\\res\\values-lo\\values-lo.xml",
